@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# User data
+wifi_config.h
+
+# Arduino auto-generated files
+*.svd
+debug_custom.json
+debug.cfg
